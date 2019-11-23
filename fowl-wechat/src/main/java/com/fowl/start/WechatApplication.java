@@ -1,13 +1,13 @@
-package com.fowl;
+package com.fowl.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FowlWechatApplication {
+public class WechatApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FowlWechatApplication.class, args);
+        SpringApplication.run(WechatApplication.class, args);
     }
 
 }

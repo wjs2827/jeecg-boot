@@ -1,13 +1,13 @@
-package com.fowl;
+package com.fowl.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FowlWebAppApplication {
+public class WebAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FowlWebAppApplication.class, args);
+        SpringApplication.run(WebAppApplication.class, args);
     }
 
 }

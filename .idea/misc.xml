@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/fowl-interface/pom.xml" />
         <option value="$PROJECT_DIR$/fowl-center-impl/pom.xml" />
         <option value="$PROJECT_DIR$/fowl-web-app/pom.xml" />
-        <option value="$PROJECT_DIR$/fowl-wechat/pom.xml" />
       </list>
     </option>
   </component>
