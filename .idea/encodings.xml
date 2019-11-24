@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fowl-center-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fowl-data-source" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fowl-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fowl-web-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fowl-wechat" charset="UTF-8" />
