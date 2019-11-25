@@ -1,11 +1,11 @@
-package com.fowl.start;
+package com.fowl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.Configuration;
 
+@Configuration
 @SpringBootApplication
-@PropertySource(value={"classpath:config/${spring.profiles.active}/application.yml"},ignoreResourceNotFound=true,encoding="utf-8")
 public class AdminApplication {
 
     public static void main(String[] args) {
