@@ -6,7 +6,7 @@
  * @create 2019/11/25
  * @since 1.0.0
  */
-package com.fowl.manager.usermanager;
+package com.fowl.manager;
 
 import com.fowl.model.User;
 

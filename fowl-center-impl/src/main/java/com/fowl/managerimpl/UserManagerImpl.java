@@ -6,9 +6,9 @@
  * @create 2019/11/25
  * @since 1.0.0
  */
-package com.fowl.managerimpl.usermanagerimpl;
+package com.fowl.managerimpl;
 
-import com.fowl.manager.usermanager.UserManager;
+import com.fowl.manager.UserManager;
 import com.fowl.mapper.UserMapper;
 import com.fowl.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 @Transactional
-@Service
+@Service("userManager")
 public class UserManagerImpl implements UserManager {
 
     @Autowired
